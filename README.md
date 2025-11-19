@@ -27,10 +27,8 @@ I organized the code into header files for better readability:
 * `clsMainScreen.h`: The entry point menu.
 * `clsInputValidate.h`: My custom library to handle user input errors.
 
-## How to Run
-1. Clone the repo or download the code.
-2. Open the project in **Visual Studio** (recommended) or any C++ IDE.
-3. Run the `.sln` file.
+## Quick Start
+Open `BankProject.sln` in Visual Studio and run (Ctrl+F5).
 
 > ** Login Credentials:
 > * **User:** `User11`
